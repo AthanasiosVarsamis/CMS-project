@@ -23,7 +23,8 @@
                     echo "<li><a href='#'>{$cat_title}</li>";
                 }
                 ?>
-                <li>
+                <li><a href="#"></a></li>
+                <li class="">
                     <a href="registration.php">Registration</a>
                 </li>
 
